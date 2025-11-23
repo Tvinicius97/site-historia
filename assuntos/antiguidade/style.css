@@ -1,23 +1,9 @@
 @charset "utf-8";
-body{
-    text-align: justify;
-}
-h1{
-    text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-main{
-     background-color: whitesmoke;
-    border-radius: 10px;
-    width: 1500px;
-    padding: 100px;
-    margin: auto;
-    box-shadow: 10px 5px 20px
 
-}
-p{
-    font-size: large;
-}
-ul{
-    font-size: large;
-}
+ body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial;line-height:1.65;margin:0;padding:0;background:#f7f7f7;color:#111}
+    .container{max-width:1000px;margin:40px auto;padding:24px;background:white;border-radius:12px;box-shadow:0 6px 22px rgba(0,0,0,0.06)}
+    h1,h2,h3{color:#1b4c85;margin-top:32px}
+    p{text-align:justify;margin:14px 0}
+    ul{margin-left:20px}
+    
+    
